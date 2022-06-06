@@ -6,7 +6,13 @@ public class EserciziConLeVariabili {
 		// Esercizi con le variabili
 		// Dopo primo push
 		
-
+		//Dichiaro la variabile saluto
+		String saluto;
+		// Assegno un valore alla variabile saluto
+		saluto="ciao";		
+		// Stampo il valore di saluto
+		System.out.println(saluto);
+	
 	}
 
 }
